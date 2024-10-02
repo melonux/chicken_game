@@ -1,7 +1,7 @@
 {
-    "name": "Melon AVS 2",
-    "website": "https://github.com/melonux/",
-    "description": "This is my 2nd AVS",
-    "logo": "https://raw.githubusercontent.com/melonux/chicken_game/main/res/fox.png",
-    "twitter": "https://x.com/melonux"
+    "name": "GoPlus AVS",
+    "website": "https://gopluslabs.io/",
+    "description": "This AVS implements the Compute Layer of the GoPlus Network, ensuring decentralized execution and verification of security services.",
+    "logo": "https://gopluslabs.io/assets/Separate-logo-2a6a5441.png",
+    "twitter": "https://twitter.com/GoplusSecurity"
 }
